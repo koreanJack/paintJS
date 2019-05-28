@@ -25,4 +25,4 @@ JS강의니까 당연한거지만 노마드코더의 JS Basic과 PaintJS 강의�
 
 
 ## 노마드코더 paintJS 강의 재생목록 링크
-<https://www.youtube.com/playlist?list=PL7jH19IHhOLNtwXhfYrbrqM6-CYrVkUWy>ㅈ
+<https://www.youtube.com/playlist?list=PL7jH19IHhOLNtwXhfYrbrqM6-CYrVkUWy>
